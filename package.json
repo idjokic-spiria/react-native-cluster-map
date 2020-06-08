@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cluster-map",
+  "name": "@idjokic-spiria/react-native-cluster-map",
   "version": "1.0.6",
   "description": "React Native MapView clustering component for iOS + Android",
   "keywords": [
